@@ -12,25 +12,25 @@
     <li>age – wiek</li>
     <li>height(cm) - wzrost</li>
     <li>weight(cm) - waga</li>
-    <li>bmi</li>
+    <li>bmi - wskaźnik masy ciała</li>
     <li>waist(cm) - obwód talii</li>
     <li>eyesight(left) - wzrok (oko lewe)</li>
     <li>eyesight(right) - wzrok (oko prawe)</li>
     <li>hearing(right) - słuch (ucho prawe)</li>
     <li>hearing(left) - słuch (ucho lewe)</li>
-    <li>systolic</li>
-    <li>relaxation</li>
-    <li>fasting blood sugar</li>
-    <li>Cholesterol</li>
-    <li>triglyceride</li>
-    <li>HDL</li>
-    <li>LDL</li>
-    <li>Hemoglobin</li>
-    <li>Urine protein</li>
-    <li>serum creatinine</li>
-    <li>AST</li>
-    <li>ALT</li>
-    <li>Gtp</li>
+    <li>systolic - ciśnienie skurczowe</li>
+    <li>relaxation - ciśnienie rozkurczowe</li>
+    <li>fasting blood sugar - poziom cukru we krwii na czczo</li>
+    <li>Cholesterol - cholersterol całkowity</li>
+    <li>triglyceride - trójglicerydy </li>
+    <li>HDL - "dobry" cholesterol</li>
+    <li>LDL - "zły" cholesterol</li>
+    <li>Hemoglobin - stężenie hemoglobiny</li>
+    <li>Urine protein - białko w moczu</li>
+    <li>serum creatinine - kreatynina w surowicy</li>
+    <li>AST - aminotransferaza asparaginianowa, AspAT, marker chorób wątroby</li>
+    <li>ALT - aminotransferaza alaninowa, marker chorób wątroby</li>
+    <li>Gtp - gamma-glutamylotranspeptydaza (GGTP), marker chorób wątroby</li>
     <li>dental caries - próchnica</li>
     <li>tartar - kamień nazębny</li>
 </ul>
