@@ -10,14 +10,14 @@
 <ul>
     <li>gender - płeć ( 0 – kobieta, 1 - mężczyzna)</li>
     <li>age – wiek</li>
-    <li>height(cm) - wzrost</li>
-    <li>weight(cm) - waga</li>
+    <li>height(cm) - wzrost // usunięto w smoking_purged.csv</li>
+    <li>weight(cm) - waga // usunięto w smoking_purged.csv</li>
     <li>bmi - wskaźnik masy ciała</li>
     <li>waist(cm) - obwód talii</li>
-    <li>eyesight(left) - wzrok (oko lewe)</li>
-    <li>eyesight(right) - wzrok (oko prawe)</li>
-    <li>hearing(right) - słuch (ucho prawe)</li>
-    <li>hearing(left) - słuch (ucho lewe)</li>
+    <li>eyesight(left) - wzrok (oko lewe) // usunięto w smoking_purged.csv</li>
+    <li>eyesight(right) - wzrok (oko prawe) // usunięto w smoking_purged.csv</li>
+    <li>hearing(right) - słuch (ucho prawe) // usunięto w smoking_purged.csv</li>
+    <li>hearing(left) - słuch (ucho lewe) // usunięto w smoking_purged.csv</li>
     <li>systolic - ciśnienie skurczowe</li>
     <li>relaxation - ciśnienie rozkurczowe</li>
     <li>fasting blood sugar - poziom cukru we krwii na czczo</li>
